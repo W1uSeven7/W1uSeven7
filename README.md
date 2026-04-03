@@ -1,4 +1,5 @@
-### <div align="center">欢迎来到我的小世界，我是吴琦，西南大学信息管理与信息系统专业大三在读 🎓，曾在 UC San Diego 担任访问学生 🌎
+### <div align="center">欢迎来到我的小世界，我是吴琦，西南大学信息管理与信息系统专业大三在读 🎓
+### <div align="center">曾在 UC San Diego 担任访问学生 🌎
 🔭 目前专注于 Python & TypeScript 全栈开发 👨‍💻
 
 🌱 正在学习 AI Agent开发相关技术与数据分析 ☁️
