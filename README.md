@@ -80,6 +80,3 @@
   
 
 <br/>  
-
-
-="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
