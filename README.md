@@ -6,7 +6,7 @@
 
 ❓ 欢迎问我任何关于 Python、TypeScript、AI Agent或数据分析 的问题 📊
 
-⚡ 趣味事实：我的幸运数字是 57 ✨</div>  
+⚡ 梦想是环游世界</div>  
   
 
 <br/>  
